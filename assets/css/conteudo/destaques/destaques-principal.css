@@ -1,0 +1,9 @@
+.destaques__principal {
+    background-image: url(./../../../img/fortnite.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    grid-row: 1 / 3;
+}
+

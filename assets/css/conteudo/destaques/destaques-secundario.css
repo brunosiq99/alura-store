@@ -1,0 +1,22 @@
+.destaques__secundario {
+    background: center / no-repeat cover ;
+    background-size: cover;
+}
+
+.destaques__secundario:nth-child(2) {
+    background-image: url(../../../img/pubg.jpg);    
+}
+
+.destaques__secundario:nth-child(3) {
+    background-image: url(../../../img/slack.png);  
+}
+
+.destaques__secundario:nth-child(4) {
+    background-image: url(../../../img/whatsapp.png);
+}
+
+.destaques__secundario:nth-child(5) {
+    background-image: url(../../../img/cs-go.jpg);    
+}
+
+

@@ -1,0 +1,22 @@
+.populares {
+    padding: 3rem 0;
+}
+
+.populares__cabecalho {
+    border-bottom: 1px solid #dcdcdc;
+    display: flex;
+    justify-content: space-between;
+}
+
+.populares__titulo {
+    font-weight: 500;
+}
+
+.populares__icone {
+    margin: 0.25rem;
+}
+.populares__botao {
+    background: transparent;
+    border: none;
+    color: #333333;
+}
